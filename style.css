@@ -1,0 +1,37 @@
+body{
+    background: url("photo-1592951117908-4acda89ee817.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Reem Kufi', sans-serif;
+}
+html{
+    height: 100%;
+}
+.content{
+    text-align: center;
+    padding-top: 25%;
+    color: white;
+    color: black;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+        0px 8px 13px rgba(0,0,0,0.1),
+        0px 18px 23px rgba(0,0,0,0.1);
+}
+h1{
+    font-weight: 700;
+    font-size: 5em;
+    color: black;
+}
+p{
+    font-size: 2em;
+}
+hr{ 
+    width: 400px;
+}
+i{
+    padding-right: 5px;
+}
+h1 i{
+    padding-right: 10px;
+    color: black;
+}
